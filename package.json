@@ -1,0 +1,25 @@
+{
+  "name": "assessment-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshu6306singh/PracticeUpdate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshu6306singh/PracticeUpdate/issues"
+  },
+  "homepage": "https://github.com/himanshu6306singh/PracticeUpdate#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "url": "^0.11.4"
+  }
+}
